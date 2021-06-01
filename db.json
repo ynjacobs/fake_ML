@@ -1,33 +1,28 @@
- {
-  "hrML": [{
-                "key": "mlHr",
-                "data": "2",
-                "created": "2020-06-04T14:12:22.378Z"
-            },
-            {
-                "key": "mlHr",
-                "data": "1",
-                "created": "2020-06-04T14:11:22.378Z"
-            },
-           {
-                "key": "mlHr",
-                "data": "1",
-                "created": "2020-06-04T14:10:22.378Z"
-            },
-            {
-                "key": "mlHr",
-                "data": "3",
-                "created": "2020-06-04T14:09:22.378Z"
-            },
-             {
-                "key": "mlHr",
-                "data": "1",
-                "created": "2020-06-04T14:08:22.378Z"
-            },
-            {
-                "key": "mlHr",
-                "data": "2",
-                "created": "2020-06-04T14:07:22.378Z"
-            },
-   ],
- }
+{
+"state": "ok",
+"data": {
+"device_id": "173",
+"test_id": "206",
+"data": [
+{
+"key": "state",
+"data": "END",
+"created": "2021-02-28T17:57:34.852Z"
+},
+{
+"key": "weight",
+"created": "2021-02-28T17:57:34.852Z"
+},
+{
+"key": "error_message",
+"data": "timeout of getting first data",
+"created": "2021-02-28T17:57:34.199Z"
+},
+{
+"key": "error_code",
+"data": 4,
+"created": "2021-02-28T17:57:34.199Z"
+}
+]
+}
+}
