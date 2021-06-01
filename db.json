@@ -1,28 +1,14 @@
+[
 {
-"state": "ok",
-"data": {
-"device_id": "173",
-"test_id": "206",
-"data": [
-{
-"key": "state",
-"data": "END",
-"created": "2021-02-28T17:57:34.852Z"
+"id": 1,
+"title": "Post 1"
 },
 {
-"key": "weight",
-"created": "2021-02-28T17:57:34.852Z"
+"id": 2,
+"title": "Post 2"
 },
 {
-"key": "error_message",
-"data": "timeout of getting first data",
-"created": "2021-02-28T17:57:34.199Z"
-},
-{
-"key": "error_code",
-"data": 4,
-"created": "2021-02-28T17:57:34.199Z"
+"id": 3,
+"title": "Post 3"
 }
 ]
-}
-}
