@@ -53,7 +53,9 @@
 "created": "2021-02-28T12:57:34.852Z"
 }	
 ],	
-"profile": {	
-"name": "typicode"	
-}	
+"profile": [
+{
+"name": "typicode"
+}
+]	
 }
